@@ -7,9 +7,7 @@ s = Screen()
 IMG = "india_map.gif"
 
 def get_mouse_click_coor(x, y):
-    cor = []
-    cor.append((x, y))
-    return cor
+    print(x, y)
 
 s.setup(width=655, height=750)
 s.screensize(canvwidth=600, canvheight=700)
