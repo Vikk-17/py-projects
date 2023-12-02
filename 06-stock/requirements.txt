@@ -1,0 +1,6 @@
+newsapi-python
+requests
+python-dotenv
+black
+mypy
+twilio
